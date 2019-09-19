@@ -1,0 +1,231 @@
+h1{
+	font-family: Agency FB;
+	color: orange;
+	background-color: black;
+	padding: 0.5em;
+	position: center;
+	text-align: center;
+}
+
+h2{
+	font-family: Agency FB;
+	color: orange;
+	position: center;
+	background-color: black;
+	padding: 0.4em;
+	text-align: center;
+	width: 45%;
+	margin-left: 27%;
+}
+h3{
+	font-family: Agency FB;
+	color: orange;
+	position: center;
+	background-color: black
+	padding: 0.4em;
+	text-align: center;
+
+}
+h4{
+	font-family: Agency FB;
+	color: orange;
+	position: center;
+	background-color: black;
+	text-align: center;
+	margin-top: 1%;
+	margin-left: 42%;
+	width: 15%;
+}
+h5{
+	font-family: Agency FB;
+	color: orange;
+	position: center;
+	background-color: black;
+	text-align: center;
+	margin-top: 1%;
+	margin-left: 42%;
+	width: 15%;
+}
+body
+{
+	color: black;
+	font-family: Agency FB;
+	background-image: url("Wallpaper.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 150%;
+	position: center;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 1.2em;
+}
+
+header
+{
+	font-family: Agency FB;
+	color: white;
+	background-color: orange;
+	font-size: 4em;
+	font-weight: bolder;
+	text-align: center;
+	position: center;
+	margin-bottom: -2.1%;
+	max-width: 100%;
+	margin-top: -3%;
+}
+
+footer
+{
+	font-family: Agency FB;
+	color: white;
+	background-color: black;
+	font-size: 1em;
+	font-weight: bolder;
+	text-align: center;
+	position: bottom;
+	max-width: auto;
+	margin-top: 0.5em;
+}
+
+.login
+{
+	font-family: Agency FB;
+	color: orange;
+	background-color: rgba(0,0,0,0.8);
+	width: 30%;
+	position: center;
+	padding: 0.5em;
+	text-align: center;
+	margin-top: 1%;
+	margin-left: 35%;
+}
+.login td
+{
+	color: orange;
+	font-family: Agency FB;
+}
+.register
+{
+	font-family: Agency FB;
+	color: orange;
+	background-color: rgba(0,0,0,0.8);
+	width: 30%;
+	position: center;
+	padding: 0.5em;
+	text-align: center;
+	margin-top: 1%;
+	margin-left: 35%;
+}
+.register td
+{
+	color: orange;
+	font-family: Agency FB;
+}
+a
+{
+	text-decoration: none;
+	background-color: black;
+	color: orange;
+}
+
+a:hover
+{
+	background-color: orange;
+	color: black;
+}
+
+.edit
+{
+	font-family: Agency FB;
+	color: orange;
+	background-color: rgba(0,0,0,0.8);
+	width: 50%;
+	position: center;
+	text-align: center;
+	margin-left: 25%;
+}
+
+.employee
+{
+	font-family: Agency FB;
+	background-color: orange
+	width: 50%;
+	position: center;
+	padding: 0.5em;
+	text-align: center;
+	margin-top: 1%;
+	margin-left: 42%;
+}
+
+.employee tr
+{
+	background-color: rgba(0,0,0,0.8);
+	color: orange;
+}
+
+.employee td
+{
+	color: orange;
+}
+.delete
+{
+	font-family: Agency FB;
+	color: orange;
+	background-color: rgba(0,0,0,0.8);
+	width: 50%;
+	position: center;
+	text-align: center;
+	margin-left: 25%;
+}
+
+.add
+{
+	font-family: Agency FB;
+	color: orange;
+	background-color: rgba(0,0,0,0.8);
+	width: 30%;
+	position: center;
+	padding: 0.5em;
+	text-align: center;
+	margin-top: 1%;
+	margin-left: 35%;
+}
+
+.u2
+{
+	font-family: Agency FB;
+	color: orange;
+	background-color: rgba(0,0,0,0.8);
+	width: 22%;
+	position: center;
+	padding: 0.5em;
+	text-align: center;
+	margin-top: 1%;
+	margin-left: 38%;
+}
+
+.del2
+{
+	font-family: Agency FB;
+	color: orange;
+	background-color: rgba(0,0,0,0.8);
+	width: 22%;
+	position: center;
+	padding: 0.5em;
+	text-align: center;
+	margin-top: 1%;
+	margin-left: 38%;
+}
+
+.mysql
+{
+	text-align: left;
+	background-color: rgba(0,0,0,0.8);
+	width: 50%;
+	position: center;
+	padding: 0.8em;
+	text-align: center;
+	margin-top: 1%;
+	margin-left: 24%;
+	color: orange;
+}
